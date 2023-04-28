@@ -1,16 +1,11 @@
 ### Hi there 👋
-
-<!--
-**DevSeldron/DevSeldron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My name is DevSeldron, I like AI, gaming and website making (13 Year Old)
+- 🔭 I’m currently working on my website
+- 🌱 I’m currently learning HTML
+- 👯 I’m looking to collaborate on nothing!
+- 🤔 I’m looking for help with HTML
+- 💬 Ask me about anything!
+- 📫 How to reach me: sudohct@viiah.com
+- 😄 Pronouns: Any
+- ⚡ Fun fact: I really love random stuff!
+That's about it!
