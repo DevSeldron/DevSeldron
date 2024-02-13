@@ -1,9 +1,9 @@
 ### Hi there 👋
 My name is DevSeldron, I like AI, gaming and website making.
-- 🔭 I’m currently working on my website.
-- 🌱 I’m currently learning HTML
+- 🔭 I’m currently working on my website and a Software Ray-Traced Backrooms game called CODENAME COMPLEX: RESEARCH (Follow development on my Twitter/X!)
+- 🌱 I’m currently learning HTML and Unreal Engine 5 (I know a lot about Unreal Engine 5 now, but still appreciated!)
 - 👯 I’m looking to collaborate on nothing.
-- 🤔 I’m looking for help with HTML
+- 🤔 I’m looking for help with nothing as of now!
 - 💬 Ask me about anything.
 - 📫 How to reach me: sudohct@viiah.com
 - 😄 Pronouns: Any
