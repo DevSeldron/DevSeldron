@@ -5,7 +5,7 @@ My name is DevSeldron, I like game making and website making.
 - 👯 I’m looking to collaborate on nothing.
 - 🤔 I’m looking for help with nothing as of now!
 - 💬 Ask me about anything.
-- 📫 How to reach me: sudohct@viiah.com
+- 📫 How to reach me: E-Mail is currently unreachable!
 - 😄 Pronouns: Any
 - ⚡ Fun fact: I really love random stuff.
 That's about it.
